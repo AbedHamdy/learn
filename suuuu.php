@@ -10,7 +10,7 @@
     <thead>
         <tr>
             <th>id</th>
-            <th></th>
+            <th>name</th>
             <th>last_name</th>
             <th>email</th>
             <th>gender</th>
